@@ -5,7 +5,7 @@ find the following for a given function:
  * a graph of its derivative function
  * the number value of its derivative at a given point *x=a* of functions
  It also has a function fundamentalTheorem that finds the difference between the original function and the derivative of its integral
- (the integral found using the Riemann class in the 'Computer-Based Integration' repository). The difference is always zero (or
+ (the integral found using the Riemann class in the 'Integration-By-Riemann-Sum' repository). The difference is always zero (or
  very very close to it).
  
  The Vertical Difference Method requires the solving of a system of equations, which is executed with matrix algebra and
